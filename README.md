@@ -1,54 +1,71 @@
-<header>
+# Links-grupos
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links - Castelo Sem Limites</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center;
+        }
+        h1 {
+            color: #444;
+        }
+        p {
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        .link-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .link-container a {
+            display: block;
+            width: 80%;
+            max-width: 400px;
+            padding: 10px;
+            text-decoration: none;
+            color: white;
+            background-color: #007bff;
+            border-radius: 5px;
+            transition: 0.3s;
+            font-size: 16px;
+        }
+        .link-container a:hover {
+            background-color: #0056b3;
+        }
+        footer {
+            margin-top: 30px;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Links dos Grupos - Castelo Sem Limites</h1>
+    <p>Para uma aceitação mais rápida, identifique-se para alguns dos administradores.</p>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+    <div class="link-container">
+        <a href="https://chat.whatsapp.com/HOfRFDhhEw32nOEb2WPZRX" target="_blank">1️⃣ 𝑪𝑨𝑺𝑻𝑬𝑳𝑶 𝑺𝑬𝑴 𝑳𝑰𝑴𝑰𝑻𝑬𝑺</a>
+        <a href="https://chat.whatsapp.com/Bp5zKmRTrD91Z5E0cybuRe" target="_blank">2️⃣ 𝑪𝑺𝑳 - 𝑽𝑬𝑵𝑫𝑨𝑺 𝑬 𝑫𝑰𝑽𝑼𝑳𝑮𝑨𝑪̧𝑶̃𝑬𝑺</a>
+        <a href="https://chat.whatsapp.com/JqcNtGuqMmwLwxQDboE3Sx" target="_blank">3️⃣ Belezas de Castelo 📸🛣️🏞️☀️🪂</a>
+        <a href="https://chat.whatsapp.com/Bx009nqeVka2lwvh9WPnqA" target="_blank">4️⃣ 𝐁𝐀𝐓𝐀𝐋𝐇𝐀 𝐃𝐄 𝐅𝐈𝐆𝐔𝐑𝐈𝐍𝐇𝐀𝐒 🎭 NEW</a>
+        <a href="https://t.me/castelosemlimites" target="_blank">5️⃣ 𝑪𝑨𝑺𝑻𝑬𝑳𝑶 𝑺𝑬𝑴 𝑳𝑰𝑴𝑰𝑻𝑬𝑺 [TELEGRAM]</a>
+        <a href="https://www.instagram.com/castelosemlimites?igsh=NGYyMWVxaWx2cndv" target="_blank">6️⃣ PÁGINA NO INSTAGRAM</a>
+    </div>
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+    <footer>
+        <p>&copy; 2025 - Grupo/WhatsApp - Castelo Sem Limites </p>
+    </footer>
+</body>
+</html>
